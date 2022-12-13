@@ -1,2 +1,0 @@
-lo visto en la clase anterior fue: generalidades de git, uso y manejo basico de la herramienta git bash y 
-gran cantidad de funciones y lineas.
