@@ -1,3 +1,11 @@
 en el día de hoy los temas tratados son: taller donde aplicamos todos los conocimientos vistos en clases anteriores
 donde por medio de un paso a paso practicamos las lineas y herramientas aprendidas.
 Los sistemas de control de versiones son herramientas que permiten la visualización y/o modificación de código entre equipo de una aplicación.
+
+La primera rama es -master
+la segunda rama es -s1
+
+Los archivos pueden ser ignorados para no ser comprometidos con .gitignore
+
+para hacer cambio de ramas se utiliza
+git switch -c <nueva-rama-nombre>
