@@ -1,0 +1,3 @@
+en el día de hoy los temas tratados son: taller donde aplicamos todos los conocimientos vistos en clases anteriores
+donde por medio de un paso a paso practicamos las lineas y herramientas aprendidas.
+Los sistemas de control de versiones son herramientas que permiten la visualización y/o modificación de código entre equipo de una aplicación.
